@@ -39,7 +39,7 @@
     ·
     <a href="https://github.com/sukjong2002/SteamTime/issues">Report Bug</a>
     ·
-    <a href="https://github.com/sukjong2002/SteamTime/issues">Request Feature</a>
+    <a href="https://github.com/sukjong2002/SteamTime/issues">Request Features</a>
     <br />
     <br />
   </p>
@@ -57,6 +57,7 @@
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
+    <li><a href="#to-do">TO-DO</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
@@ -87,6 +88,13 @@ This PHP Project is built with:
 * [Bootstrap](https://getbootstrap.com/)
 * [Font Awsome](https://fontawesome.com/)
 
+
+## TO DO
+
+1. Search users by using ID or nickname
+2. Node.js implementation
+3. Add Steam avartar frame
+And More!
 
 
 <!-- CONTRIBUTING -->

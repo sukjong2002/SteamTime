@@ -28,6 +28,7 @@ $idType = $_GET['type'];
             $games['GNum'] = $obj->response->game_count;
             $games['comuName'] = $userProfile->response->players[0]->personaname;
             $games['photo'] = $userProfile->response->players[0]->avatarfull;
+            $games['registeredIn'] = $userProfile->response->players[0]->timecreated;
             foreach ($obj->response->games as $r) {
                 //echo $r->game_count;
 //        echo $r->playtime_forever . "\n";

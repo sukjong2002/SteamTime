@@ -33,7 +33,7 @@ body {
 #tb {
     margin: auto;
     overflow: auto;
-    max-height: 200px;
+    max-height: 250px;
     display: inline-block;
     width: 100%;
     text-align: center;
@@ -71,6 +71,7 @@ tbody {
 
 td {
     padding: 5px;
+    width: 200px;
 }
 
 #tdesc1 {
@@ -99,4 +100,5 @@ td {
 
 .banner {
     max-width: 90%;
+    min-width: 100px;
 }
